@@ -1,0 +1,1592 @@
+﻿Log file open, 04/08/19 15:14:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Practice_05
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.299141
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.077s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.08-12.14.45:533][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.08-12.14.45:533][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.08-12.14.45:543][  0]LogHAL: Display: Platform has ~ 16 GB [17118846976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.08-12.14.45:543][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.04.08-12.14.45:543][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.08-12.14.45:543][  0]LogInit: Computer: DESKTOP-N8AGF2M
+[2019.04.08-12.14.45:543][  0]LogInit: User: Home
+[2019.04.08-12.14.45:543][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.08-12.14.45:543][  0]LogInit: High frequency timer resolution =3.903994 MHz
+[2019.04.08-12.14.45:543][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.08-12.14.45:543][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.08-12.14.45:543][  0]LogMemory: Process Physical Memory: 99.70 MB used, 99.70 MB peak
+[2019.04.08-12.14.45:543][  0]LogMemory: Process Virtual Memory: 91.11 MB used, 91.11 MB peak
+[2019.04.08-12.14.45:544][  0]LogMemory: Physical Memory: 7808.28 MB used,  8517.52 MB free, 16325.80 MB total
+[2019.04.08-12.14.45:544][  0]LogMemory: Virtual Memory: 4645.22 MB used,  8517.52 MB free, 134217728.00 MB total
+[2019.04.08-12.14.45:564][  0]LogInit: Using OS detected language (en-US).
+[2019.04.08-12.14.45:564][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.08-12.14.45:565][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.08-12.14.45:888][  0]LogStreaming: Display: Took  0.324s to InitEngineTextLocalization.
+[2019.04.08-12.14.45:889][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.08-12.14.45:935][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.08-12.14.45:935][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.08-12.14.46:131][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.08-12.14.46:131][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.08-12.14.46:205][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.04.08-12.14.46:205][  0]LogD3D11RHI:       2016/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2019.04.08-12.14.46:207][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.08-12.14.46:207][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.08-12.14.46:207][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.08-12.14.46:214][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.08-12.14.46:214][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.08-12.14.46:214][  0]LogWindows: EnumDisplayDevices:
+[2019.04.08-12.14.46:214][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.04.08-12.14.46:214][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2019.04.08-12.14.46:215][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2019.04.08-12.14.46:215][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.04.08-12.14.46:215][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.04.08-12.14.46:215][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.04.08-12.14.46:215][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.04.08-12.14.46:215][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.04.08-12.14.46:215][  0]LogRHI: Texture pool is 1411 MB (70% of 2016 MB)
+[2019.04.08-12.14.46:245][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.08-12.14.46:256][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.08-12.14.46:347][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (D:/UNREAL/Practice/CODE/Practice_05/Intermediate/Shaders/WorkingDirectory/14772/).
+[2019.04.08-12.14.46:347][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Home/AppData/Local/Temp/UnrealShaderWorkingDir/3C3AE4B84047A2BDBCE823B64A7BCC7A/'.
+[2019.04.08-12.14.46:627][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.08-12.14.46:642][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.08-12.14.46:656][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.08-12.14.46:670][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.08-12.14.46:684][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.08-12.14.46:698][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.08-12.14.46:713][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.08-12.14.46:727][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.08-12.14.46:735][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.08-12.14.46:805][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.08-12.14.46:866][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.08-12.14.46:866][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.08-12.14.46:935][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.08-12.14.46:935][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.08-12.14.46:956][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.08-12.14.46:970][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.08-12.14.46:981][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.08-12.14.46:994][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.08-12.14.47:003][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.08-12.14.47:003][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.08-12.14.47:106][  0]LogXGEController: Cleaning working directory: C:/Users/Home/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.08-12.14.47:106][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.08-12.14.47:106][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.08-12.14.47:106][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.08-12.14.47:805][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.08-12.14.47:882][  0]LogDerivedDataCache: Loaded boot cache 0.08s 73MB C:/Users/Home/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.08-12.14.47:883][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Home/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.04.08-12.14.47:883][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UNREAL/Practice/CODE/Practice_05/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.08-12.14.47:883][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.08-12.14.47:883][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UNREAL/Practice/CODE/Practice_05/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.08-12.14.47:883][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.08-12.14.47:897][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.08-12.14.47:909][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Home/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.08-12.14.47:909][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.08-12.14.47:909][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.08-12.14.47:925][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.08-12.14.47:927][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.08-12.14.47:928][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.08-12.14.48:002][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2019.04.08-12.14.48:279][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.08-12.14.48:413][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.08-12.14.48:418][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.08-12.14.48:418][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.08-12.14.48:418][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.08-12.14.48:419][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.08-12.14.48:443][  0]LogNetVersion: Practice_05 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2388821814)
+[2019.04.08-12.14.48:858][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.065407 seconds
+[2019.04.08-12.14.48:863][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.04.08-12.14.48:863][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.04.08-12.14.48:863][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.08-12.14.49:707][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.08-12.14.49:720][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.08-12.14.50:022][  0]SourceControl: Source control is disabled
+[2019.04.08-12.14.50:628][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.08-12.14.50:695][  0]LogOcInput: OculusInput pre-init called
+[2019.04.08-12.14.50:752][  0]LogEngine: Initializing Engine...
+[2019.04.08-12.14.50:752][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.08-12.14.50:754][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.08-12.14.50:754][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.08-12.14.50:754][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.08-12.14.50:754][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.08-12.14.50:928][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.08-12.14.50:953][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.08-12.14.50:969][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.08-12.14.50:993][  0]LogInit: FAudioDevice initialized.
+[2019.04.08-12.14.50:993][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.08-12.14.51:119][  0]LogDerivedDataCache: Saved boot cache 0.13s 73MB C:/Users/Home/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.08-12.14.51:135][  0]LogInit: Texture streaming: Enabled
+[2019.04.08-12.14.51:162][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.08-12.14.51:185][  0]LogInit: Transaction tracking system initialized
+[2019.04.08-12.14.51:233][  0]BlueprintLog: New page: Editor Load
+[2019.04.08-12.14.51:398][  0]LocalizationService: Localization service is disabled
+[2019.04.08-12.14.51:648][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.08-12.14.51:648][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.08-12.14.51:648][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.08-12.14.51:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.08-12.14.51:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.08-12.14.51:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.08-12.14.51:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.08-12.14.51:821][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/Practice/CODE/Practice_05/Content/' took 0.01s
+[2019.04.08-12.14.51:821][  0]Cmd: MAP LOAD FILE="D:/UNREAL/Practice/CODE/Practice_05/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.08-12.14.51:821][  0]LightingResults: New page: Lighting Build
+[2019.04.08-12.14.51:826][  0]MapCheck: New page: Map Check
+[2019.04.08-12.14.51:826][  0]LightingResults: New page: Lighting Build
+[2019.04.08-12.14.51:991][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.08-12.14.51:998][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.08-12.14.52:015][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.08-12.14.52:098][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.806ms to complete.
+[2019.04.08-12.14.52:098][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.277
+[2019.04.08-12.14.52:221][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.14.52:227][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.14.52:233][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.14.52:241][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.14.52:252][  0]LogCollectionManager: Loaded 0 collections in 0.004503 seconds
+[2019.04.08-12.14.52:305][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/Practice/CODE/Practice_05/Saved/Collections/' took 0.01s
+[2019.04.08-12.14.52:305][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/Practice/CODE/Practice_05/Content/Developers/Home/Collections/' took 0.01s
+[2019.04.08-12.14.52:305][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/Practice/CODE/Practice_05/Content/Collections/' took 0.01s
+[2019.04.08-12.14.52:305][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.08-12.14.52:323][  0]LogContentBrowser: Native class hierarchy populated in 0.0185 seconds. Added 2577 classes and 605 folders.
+[2019.04.08-12.14.52:340][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.04.08-12.14.52:413][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.08-12.14.52:421][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.08-12.14.52:498][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.08-12.14.52:500][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.08-12.14.52:505][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.08-12.14.52:572][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.04.08-12.14.52:632][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.08-12.14.52:721][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.08-12.14.52:721][  0]LogLoad: (Engine Initialization) Total time: 9.32 seconds
+[2019.04.08-12.14.52:721][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.08-12.14.52:731][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.08-12.14.52:750][  0]LogAssetRegistry: Asset discovery search completed in 4.7712 seconds
+[2019.04.08-12.14.52:752][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.08-12.14.52:752][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2019.04.08-12.14.52:755][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.08-12.15.06:949][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-12.20.33:774][899]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.08-12.20.33:783][899]LogAssetEditorManager: Opening Asset editor for Class /Script/Practice_03.Practice_03HUD
+[2019.04.08-12.20.45:085][ 55]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.04.08-12.20.46:178][ 56]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/UNREAL/Practice/CODE/Practice_05/Source/Practice_03/Practice_03HUD.cpp'
+[2019.04.08-12.27.19:215][232]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.08-12.27.19:215][232]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.08-12.27.20:386][341]Candidate modules for hot reload:
+[2019.04.08-12.27.20:386][341]  Practice_03
+[2019.04.08-12.27.20:386][341]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Practice_03,1363 Win64 Development -TargetType=Editor -Project="D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" -canskiplink "D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" ]
+[2019.04.08-12.27.20:391][341]Warning: Starting HotReload took  0.1s.
+[2019.04.08-12.27.33:848][939]CompilerResultsLog: New page: Compilation - Apr 8, 2019, 6:27:33 PM
+[2019.04.08-12.27.33:848][939]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.04.08-12.27.33:848][939]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.08-12.27.33:848][939]CompilerResultsLog: Parsing headers for Practice_03Editor
+[2019.04.08-12.27.33:849][939]CompilerResultsLog:   Running UnrealHeaderTool "D:\UNREAL\Practice\CODE\Practice_05\Practice_05.uproject" "D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\Practice_03Editor\Development\Practice_03Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.04.08-12.27.33:849][939]CompilerResultsLog: Error: D:/UNREAL/Practice/CODE/Practice_05/Source/Practice_03/Practice_03HUD.h(27)  : LogCompile: Error: BlueprintReadWrite should not be used on private members
+[2019.04.08-12.27.33:849][939]CompilerResultsLog: UnrealHeaderTool failed for target 'Practice_03Editor' (platform: Win64, module info: D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\Practice_03Editor\Development\Practice_03Editor.uhtmanifest).
+[2019.04.08-12.27.33:849][939]LogMainFrame: MainFrame: Module compiling took 13.483 seconds
+[2019.04.08-12.27.33:849][939]Warning: HotReload failed, recompile failed
+[2019.04.08-12.27.48:502][687]LogVSAccessor: Warning: Couldn't goto line number '27' in 'D:/UNREAL/Practice/CODE/Practice_05/Source/Practice_03/Practice_03HUD.h'
+[2019.04.08-12.28.18:120][ 70]LogSlate: Window 'Message Log' being destroyed
+[2019.04.08-12.28.18:121][ 70]LogSlate: Window 'Message Log' being destroyed
+[2019.04.08-12.28.19:788][165]Candidate modules for hot reload:
+[2019.04.08-12.28.19:788][165]  Practice_03
+[2019.04.08-12.28.19:788][165]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Practice_03,8751 Win64 Development -TargetType=Editor -Project="D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" -canskiplink "D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" ]
+[2019.04.08-12.28.19:794][165]Warning: Starting HotReload took  0.0s.
+[2019.04.08-12.28.43:883][ 47]CompilerResultsLog: New page: Compilation - Apr 8, 2019, 6:28:43 PM
+[2019.04.08-12.28.43:883][ 47]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.04.08-12.28.43:883][ 47]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.08-12.28.43:883][ 47]CompilerResultsLog: Parsing headers for Practice_03Editor
+[2019.04.08-12.28.43:883][ 47]CompilerResultsLog:   Running UnrealHeaderTool "D:\UNREAL\Practice\CODE\Practice_05\Practice_05.uproject" "D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\Practice_03Editor\Development\Practice_03Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.04.08-12.28.43:883][ 47]CompilerResultsLog: Reflection code generated for Practice_03Editor in 10.3238421 seconds
+[2019.04.08-12.28.43:883][ 47]CompilerResultsLog: Building 6 actions with 8 processes...
+[2019.04.08-12.28.43:883][ 47]CompilerResultsLog:   [1/6] Practice_03.init.gen.cpp
+[2019.04.08-12.28.43:883][ 47]CompilerResultsLog:   [2/6] Practice_03HUD.gen.cpp
+[2019.04.08-12.28.43:883][ 47]CompilerResultsLog:   [3/6] Practice_03GameMode.cpp
+[2019.04.08-12.28.43:884][ 47]CompilerResultsLog:   [4/6] Practice_03HUD.cpp
+[2019.04.08-12.28.43:884][ 47]CompilerResultsLog:   [5/6] UE4Editor-Practice_03-8751.lib
+[2019.04.08-12.28.43:884][ 47]CompilerResultsLog:      Creating library D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-8751.lib and object D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-8751.exp
+[2019.04.08-12.28.43:884][ 47]CompilerResultsLog:   [6/6] UE4Editor-Practice_03-8751.dll
+[2019.04.08-12.28.43:884][ 47]CompilerResultsLog:      Creating library D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-8751.suppressed.lib and object D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-8751.suppressed.exp
+[2019.04.08-12.28.43:884][ 47]CompilerResultsLog: Total build time: 23.81 seconds (Parallel executor: 10.84 seconds)
+[2019.04.08-12.28.43:884][ 47]LogMainFrame: MainFrame: Module compiling took 24.112 seconds
+[2019.04.08-12.28.43:919][ 47]LogClass: Could not find existing class Practice_03HUD in package /Script/Practice_03 for HotReload, assuming new class
+[2019.04.08-12.28.43:924][ 47]LogHotReload: Re-instancing Practice_03GameMode after hot-reload.
+[2019.04.08-12.28.43:985][ 47]LogHotReload: Re-instancing Practice_03HUD after hot-reload.
+[2019.04.08-12.28.44:027][ 47]LogContentBrowser: Native class hierarchy updated for 'Practice_03' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2019.04.08-12.28.44:029][ 47]Display: HotReload successful (7 functions remapped  0 scriptstructs remapped)
+[2019.04.08-12.28.44:139][ 47]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2578 classes and 607 folders.
+[2019.04.08-12.28.44:144][ 47]Display: HotReload took 24.4s.
+[2019.04.08-12.28.46:126][273]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.08-12.29.37:215][618]LogSavePackage: Moving 'D:/UNREAL/Practice/CODE/Practice_05/Saved/FirstPersonExampleMap_Auto19F574B5E4353B552956497B9F193EE35.tmp' to 'D:/UNREAL/Practice/CODE/Practice_05/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.04.08-12.29.37:221][618]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.167
+[2019.04.08-12.29.37:221][618]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.167
+[2019.04.08-12.30.39:794][897]Candidate modules for hot reload:
+[2019.04.08-12.30.39:794][897]  Practice_03
+[2019.04.08-12.30.39:794][897]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Practice_03,3219 Win64 Development -TargetType=Editor -Project="D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" -canskiplink "D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" ]
+[2019.04.08-12.30.39:799][897]Warning: Starting HotReload took  0.0s.
+[2019.04.08-12.30.57:120][964]CompilerResultsLog: New page: Compilation - Apr 8, 2019, 6:30:57 PM
+[2019.04.08-12.30.57:120][964]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.04.08-12.30.57:120][964]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.08-12.30.57:120][964]CompilerResultsLog: Parsing headers for Practice_03Editor
+[2019.04.08-12.30.57:120][964]CompilerResultsLog:   Running UnrealHeaderTool "D:\UNREAL\Practice\CODE\Practice_05\Practice_05.uproject" "D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\Practice_03Editor\Development\Practice_03Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.04.08-12.30.57:120][964]CompilerResultsLog: Reflection code generated for Practice_03Editor in 10.3981819 seconds
+[2019.04.08-12.30.57:120][964]CompilerResultsLog: Building 5 actions with 8 processes...
+[2019.04.08-12.30.57:120][964]CompilerResultsLog:   [1/5] Practice_03HUD.gen.cpp
+[2019.04.08-12.30.57:120][964]CompilerResultsLog:   [2/5] Practice_03HUD.cpp
+[2019.04.08-12.30.57:120][964]CompilerResultsLog:   [3/5] Practice_03GameMode.cpp
+[2019.04.08-12.30.57:120][964]CompilerResultsLog:   [4/5] UE4Editor-Practice_03-3219.lib
+[2019.04.08-12.30.57:120][964]CompilerResultsLog:      Creating library D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-3219.lib and object D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-3219.exp
+[2019.04.08-12.30.57:120][964]CompilerResultsLog:   [5/5] UE4Editor-Practice_03-3219.dll
+[2019.04.08-12.30.57:120][964]CompilerResultsLog:      Creating library D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-3219.suppressed.lib and object D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-3219.suppressed.exp
+[2019.04.08-12.30.57:120][964]CompilerResultsLog: Total build time: 17.03 seconds (Parallel executor: 3.77 seconds)
+[2019.04.08-12.30.57:120][964]LogMainFrame: MainFrame: Module compiling took 17.341 seconds
+[2019.04.08-12.30.57:155][964]LogContentBrowser: Native class hierarchy updated for 'Practice_03' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2019.04.08-12.30.57:157][964]Display: HotReload successful (7 functions remapped  0 scriptstructs remapped)
+[2019.04.08-12.30.57:200][964]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2578 classes and 607 folders.
+[2019.04.08-12.30.57:200][964]Display: HotReload took 17.4s.
+[2019.04.08-12.35.58:199][ 64]LogAssetEditorManager: Opening Asset editor for Class /Script/Practice_03.Practice_03GameMode
+[2019.04.08-12.35.58:249][ 64]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/UNREAL/Practice/CODE/Practice_05/Source/Practice_03/Practice_03GameMode.h'
+[2019.04.08-12.35.58:286][ 64]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/UNREAL/Practice/CODE/Practice_05/Source/Practice_03/Practice_03GameMode.cpp'
+[2019.04.08-12.40.17:212][524]LogSlate: Took 0.011924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.08-12.40.18:176][638]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.04.08-12.40.29:683][  9]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_derived/BP_MyATurret.BP_MyATurret
+[2019.04.08-12.40.30:227][  9]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2019.04.08-12.40.30:956][  9]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2019.04.08-12.40.31:068][  9]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.04.08-12.40.34:212][365]LogSlate: Took 0.004656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.08-12.40.47:103][783]BlueprintLog: New page: Compile BP_MyATurret
+[2019.04.08-12.40.47:926][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_derived/BP_MyATurret" FILE="D:/UNREAL/Practice/CODE/Practice_05/Content/BP_derived/BP_MyATurret.uasset" SILENT=true
+[2019.04.08-12.40.47:948][850]LogSavePackage: Moving 'D:/UNREAL/Practice/CODE/Practice_05/Saved/BP_MyATurretA7EEA93F4BEAC0718E6A5FA303C5CA50.tmp' to 'D:/UNREAL/Practice/CODE/Practice_05/Content/BP_derived/BP_MyATurret.uasset'
+[2019.04.08-12.40.49:898][ 63]LogSlate: Window 'BP_MyATurret' being destroyed
+[2019.04.08-12.40.49:901][ 63]LogSlate: Window 'BP_MyATurret' being destroyed
+[2019.04.08-12.40.57:034][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-12.40.57:170][914]Candidate modules for hot reload:
+[2019.04.08-12.40.57:170][914]  Practice_03
+[2019.04.08-12.40.57:170][914]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Practice_03,3341 Win64 Development -TargetType=Editor -Project="D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" -canskiplink "D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" ]
+[2019.04.08-12.40.57:175][914]Warning: Starting HotReload took  0.0s.
+[2019.04.08-12.41.14:425][968]CompilerResultsLog: New page: Compilation - Apr 8, 2019, 6:41:14 PM
+[2019.04.08-12.41.14:425][968]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.04.08-12.41.14:425][968]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.08-12.41.14:425][968]CompilerResultsLog: Parsing headers for Practice_03Editor
+[2019.04.08-12.41.14:425][968]CompilerResultsLog:   Running UnrealHeaderTool "D:\UNREAL\Practice\CODE\Practice_05\Practice_05.uproject" "D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\Practice_03Editor\Development\Practice_03Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.04.08-12.41.14:425][968]CompilerResultsLog: Reflection code generated for Practice_03Editor in 10.8576373 seconds
+[2019.04.08-12.41.14:425][968]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.04.08-12.41.14:425][968]CompilerResultsLog:   [1/4] Practice_03GameMode.gen.cpp
+[2019.04.08-12.41.14:425][968]CompilerResultsLog:   [2/4] Practice_03GameMode.cpp
+[2019.04.08-12.41.14:425][968]CompilerResultsLog:   [3/4] UE4Editor-Practice_03-3341.lib
+[2019.04.08-12.41.14:425][968]CompilerResultsLog:      Creating library D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-3341.lib and object D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-3341.exp
+[2019.04.08-12.41.14:425][968]CompilerResultsLog:   [4/4] UE4Editor-Practice_03-3341.dll
+[2019.04.08-12.41.14:425][968]CompilerResultsLog:      Creating library D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-3341.suppressed.lib and object D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-3341.suppressed.exp
+[2019.04.08-12.41.14:425][968]CompilerResultsLog: Total build time: 16.93 seconds (Parallel executor: 3.30 seconds)
+[2019.04.08-12.41.14:425][968]LogMainFrame: MainFrame: Module compiling took 17.272 seconds
+[2019.04.08-12.41.14:474][968]LogContentBrowser: Native class hierarchy updated for 'Practice_03' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2019.04.08-12.41.14:477][968]Display: HotReload successful (7 functions remapped  0 scriptstructs remapped)
+[2019.04.08-12.41.14:744][968]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2578 classes and 607 folders.
+[2019.04.08-12.41.14:744][968]Display: HotReload took 17.6s.
+[2019.04.08-12.41.17:292][260]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.08-12.41.17:309][260]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.41.17:311][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.08-12.41.17:328][260]PIE: New page: PIE session: FirstPersonExampleMap (Apr 8, 2019, 6:41:17 PM)
+[2019.04.08-12.41.17:328][260]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.04.08-12.41.17:341][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012765s)
+[2019.04.08-12.41.17:342][260]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.08-12.41.17:343][260]LogPlayLevel: PIE: World Init took: (0.001319s)
+[2019.04.08-12.41.17:343][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014330s)
+[2019.04.08-12.41.17:412][260]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.08-12.41.17:422][260]LogInit: FAudioDevice initialized.
+[2019.04.08-12.41.17:481][260]LogLoad: Game class is 'Practice_03GameMode'
+[2019.04.08-12.41.17:499][260]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.04.08-15.41.17
+[2019.04.08-12.41.17:507][260]LogWorld: Bringing up level for play took: 0.013126
+[2019.04.08-12.41.17:630][260]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2019.04.08-12.41.17:634][260]LogTemp: Warning: File read
+[2019.04.08-12.41.17:635][260]LogTemp: Warning: Shoots is - 30
+[2019.04.08-12.41.17:636][260]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 1.03
+[2019.04.08-12.41.17:636][260]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.41.20:323][552]LogTemp: Warning: Health is - 90.000000
+[2019.04.08-12.41.20:857][616]LogTemp: Warning: Health is - 80.000000
+[2019.04.08-12.41.21:064][641]LogTemp: Warning: Health is - 70.000000
+[2019.04.08-12.41.21:264][665]LogTemp: Warning: Health is - 60.000000
+[2019.04.08-12.41.21:442][686]LogTemp: Warning: Health is - 50.000000
+[2019.04.08-12.41.21:616][707]LogTemp: Warning: Health is - 40.000000
+[2019.04.08-12.41.21:758][724]LogTemp: Warning: Health is - 30.000000
+[2019.04.08-12.41.21:932][745]LogTemp: Warning: Health is - 20.000000
+[2019.04.08-12.41.22:766][845]LogTemp: Warning: Health is - 10.000000
+[2019.04.08-12.41.23:749][963]LogTemp: Warning: Health is - 0.000000
+[2019.04.08-12.41.23:749][963]LogTemp: Warning: Score is - 10.000000
+[2019.04.08-12.41.38:686][755]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.41.38:687][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.41.38:726][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.08-12.41.38:726][755]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.41.38:750][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.41.38:793][756]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.04.08-12.41.40:483][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-12.41.42:777][231]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_derived/BP_MyATurret.BP_MyATurret
+[2019.04.08-12.41.45:177][454]LogSlate: Window 'CompilerResults' being destroyed
+[2019.04.08-12.41.45:180][454]LogSlate: Window 'CompilerResults' being destroyed
+[2019.04.08-12.41.50:618][905]LogAssetEditorManager: Opening Asset editor for Material /Game/Geometry/Meshes/CubeMaterial.CubeMaterial
+[2019.04.08-12.41.50:628][905]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.41.51:078][905]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.41.51:112][905]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.41.51:112][905]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.41.51:112][905]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.41.51:112][905]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.41.51:128][905]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.04.08-12.41.51:977][961]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.41.52:035][966]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.41.52:035][966]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.41.52:035][966]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.41.52:184][978]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.41.52:217][981]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.41.52:250][984]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.41.52:260][985]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.41.52:372][994]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.41.52:528][  6]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.41.52:697][ 20]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.41.52:709][ 21]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.41.52:793][ 28]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.41.52:941][ 40]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.08-12.41.52:976][ 43]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.08-12.41.53:093][ 53]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.08-12.41.53:171][ 59]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.08-12.41.53:195][ 61]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.41.53:355][ 74]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.08-12.41.53:413][ 79]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-12.41.53:500][ 84]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.08-12.41.53:592][ 91]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.08-12.41.53:638][ 95]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.08-12.41.53:770][105]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.08-12.41.53:877][113]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-12.41.53:923][117]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-12.41.54:031][125]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.41.54:135][133]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.41.54:267][145]MaterialEditorStats: Base pass shader: 100 instructions
+[2019.04.08-12.41.54:267][145]MaterialEditorStats: Base pass shader with Surface Lightmap: 117 instructions
+[2019.04.08-12.41.54:267][145]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2019.04.08-12.41.54:267][145]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.08-12.41.54:267][145]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.08-12.41.59:626][772]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.41.59:647][772]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.41.59:647][772]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.41.59:647][772]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.41.59:647][772]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.41.59:650][772]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.04.08-12.41.59:839][785]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.41.59:867][787]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.41.59:867][787]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.41.59:880][788]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.42.00:033][800]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.42.00:034][800]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.42.00:045][801]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.42.00:066][803]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.42.00:217][817]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.42.00:318][825]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.42.00:429][833]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.42.00:476][837]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.42.00:502][839]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.42.00:542][839]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.04.08-12.42.00:581][840]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.04.08-12.42.00:661][847]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.04.08-12.42.00:722][852]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.42.00:809][860]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.42.00:855][864]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.42.00:895][867]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.42.00:953][872]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.42.00:990][875]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.42.01:038][879]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.42.01:072][882]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.42.01:141][888]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.42.01:153][889]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.42.01:200][893]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.42.01:398][909]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.42.01:473][915]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.42.01:515][918]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.42.01:538][918]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.04.08-12.42.01:577][919]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.04.08-12.42.01:577][919]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.04.08-12.42.01:688][926]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.42.01:810][936]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.42.01:822][937]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.42.01:822][937]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.42.01:921][945]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.42.01:986][950]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.42.02:010][952]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.42.02:010][952]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.42.02:096][959]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.42.02:131][962]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.42.02:173][966]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.42.02:325][978]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.42.02:360][978]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.42.02:360][978]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.04.08-12.42.02:387][978]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.04.08-12.42.02:387][978]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.08-12.42.02:512][989]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.42.02:562][993]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.42.02:595][996]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.42.02:604][997]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.42.02:721][  7]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.42.02:731][  8]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.42.02:774][ 12]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.42.02:795][ 14]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.42.02:871][ 21]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.42.02:896][ 23]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.42.02:936][ 26]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.42.03:156][ 45]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.42.03:201][ 49]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.42.03:255][ 54]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.42.03:332][ 62]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.42.03:445][ 72]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.08-12.42.03:552][ 81]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.08-12.42.03:624][ 87]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.08-12.42.03:685][ 92]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.08-12.42.03:723][ 95]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.42.03:935][112]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.08-12.42.03:968][115]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-12.42.04:034][121]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.08-12.42.04:116][128]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.08-12.42.04:216][136]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.08-12.42.04:339][146]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.08-12.42.04:465][157]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-12.42.04:473][158]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-12.42.04:546][164]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.42.04:675][173]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.42.04:845][189]MaterialEditorStats: Base pass shader: 100 instructions
+[2019.04.08-12.42.04:845][189]MaterialEditorStats: Base pass shader with Surface Lightmap: 117 instructions
+[2019.04.08-12.42.04:845][189]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2019.04.08-12.42.04:845][189]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.08-12.42.04:845][189]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.08-12.42.34:995][765]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.42.35:023][766]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.42.35:023][766]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.42.35:023][766]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.42.35:023][766]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.42.35:697][827]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.42.35:744][831]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.42.35:754][832]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.42.35:775][834]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.42.35:910][846]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.42.35:936][848]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.42.35:947][849]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.42.35:958][850]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.42.36:096][863]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.42.36:216][873]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.42.36:367][883]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.42.36:389][885]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.08-12.42.36:493][894]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.08-12.42.36:602][903]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.08-12.42.36:628][905]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.08-12.42.36:772][917]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.42.36:856][925]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.08-12.42.36:900][928]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-12.42.37:076][943]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.08-12.42.37:102][945]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.08-12.42.37:179][951]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.08-12.42.37:320][964]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.08-12.42.37:331][965]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-12.42.37:470][976]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-12.42.37:556][982]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.42.37:577][984]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.42.37:936][ 18]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.04.08-12.42.37:936][ 18]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2019.04.08-12.42.37:936][ 18]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.04.08-12.42.37:936][ 18]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.08-12.42.37:936][ 18]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.08-12.42.43:143][633]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.42.43:161][633]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.42.43:187][634]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.42.43:187][634]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.42.43:187][634]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.42.43:187][634]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.42.43:381][652]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.42.43:401][654]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.42.43:423][656]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.42.43:435][657]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.42.43:570][668]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.42.43:570][668]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.42.43:580][669]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.42.43:589][670]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.42.43:736][683]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.42.43:833][691]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.42.43:961][701]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.42.44:008][705]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.08-12.42.44:117][714]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.08-12.42.44:189][721]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.08-12.42.44:236][725]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.08-12.42.44:373][736]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.42.44:428][741]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.08-12.42.44:484][746]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-12.42.44:605][757]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.08-12.42.44:659][762]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.08-12.42.44:786][772]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.08-12.42.44:847][777]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.08-12.42.44:893][781]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-12.42.44:996][790]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-12.42.45:161][801]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.42.45:209][805]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.42.45:511][836]MaterialEditorStats: Base pass shader: 100 instructions
+[2019.04.08-12.42.45:511][836]MaterialEditorStats: Base pass shader with Surface Lightmap: 117 instructions
+[2019.04.08-12.42.45:511][836]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2019.04.08-12.42.45:511][836]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.08-12.42.45:511][836]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.08-12.42.47:377][ 49]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.42.47:395][ 49]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.42.47:420][ 50]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.42.47:420][ 50]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.42.47:420][ 50]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.42.47:420][ 50]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.42.47:613][ 67]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.42.47:649][ 70]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.42.47:659][ 71]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.42.47:659][ 71]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.42.47:790][ 82]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.42.47:819][ 84]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.42.47:832][ 85]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.42.47:842][ 86]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.42.47:956][ 95]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.42.48:077][104]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.42.48:202][115]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.42.48:248][119]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.08-12.42.48:321][126]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.08-12.42.48:420][134]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.08-12.42.48:471][138]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.08-12.42.48:597][148]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.42.48:647][152]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.08-12.42.48:729][159]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-12.42.48:840][168]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.08-12.42.48:882][172]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.08-12.42.49:019][184]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.08-12.42.49:121][193]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.08-12.42.49:132][194]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-12.42.49:243][204]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-12.42.49:357][214]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.42.49:471][224]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.42.49:711][246]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.04.08-12.42.49:711][246]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2019.04.08-12.42.49:711][246]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.04.08-12.42.49:711][246]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.08-12.42.49:711][246]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.08-12.42.56:787][ 91]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.42.56:811][ 92]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.42.56:811][ 92]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.42.56:811][ 92]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.42.56:811][ 92]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.42.57:009][107]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.42.57:044][110]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.42.57:054][111]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.42.57:054][111]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.42.57:189][123]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.42.57:189][123]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.42.57:210][125]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.42.57:232][127]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.42.57:357][138]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.42.57:489][149]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.42.57:555][154]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.42.57:611][159]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.08-12.42.57:717][167]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.08-12.42.57:803][174]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.08-12.42.57:878][181]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.08-12.42.57:961][188]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.42.58:053][196]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.08-12.42.58:107][200]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-12.42.58:275][212]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.08-12.42.58:290][213]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.08-12.42.58:360][219]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.08-12.42.58:509][232]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.08-12.42.58:520][233]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-12.42.58:684][246]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-12.42.58:753][252]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.42.58:774][254]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.42.59:113][286]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.04.08-12.42.59:113][286]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2019.04.08-12.42.59:113][286]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.04.08-12.42.59:113][286]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.08-12.42.59:113][286]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.08-12.43.03:150][758]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.03:176][759]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.43.03:176][759]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.43.03:176][759]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.43.03:177][759]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.43.03:375][775]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.43.03:398][777]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.43.03:410][778]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.43.03:419][779]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.43.03:539][789]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.43.03:564][791]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.43.03:574][792]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.43.03:596][794]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.43.03:700][804]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.43.03:862][818]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.43.03:953][826]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.43.03:966][827]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.08-12.43.04:088][838]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.08-12.43.04:202][848]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.08-12.43.04:256][853]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.08-12.43.04:355][862]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.43.04:429][869]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.08-12.43.04:477][873]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-12.43.04:654][888]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.08-12.43.04:675][890]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.08-12.43.04:785][900]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.08-12.43.04:847][905]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.08-12.43.04:894][909]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-12.43.05:041][922]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-12.43.05:134][930]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.43.05:178][934]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.43.05:496][965]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.04.08-12.43.05:496][965]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2019.04.08-12.43.05:496][965]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.04.08-12.43.05:496][965]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.08-12.43.05:496][965]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.08-12.43.10:503][563]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.10:522][563]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.10:566][564]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.43.10:566][564]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.43.10:566][564]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.43.10:566][564]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.43.10:746][580]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.43.10:757][581]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.43.10:779][583]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.43.10:798][585]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.43.10:921][596]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.43.10:931][597]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.43.10:931][597]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.43.10:963][600]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.43.11:095][612]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.43.11:196][619]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.43.11:311][630]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.43.11:354][634]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.08-12.43.11:451][642]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.08-12.43.11:554][651]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.08-12.43.11:599][655]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.08-12.43.11:728][665]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.43.11:806][672]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.08-12.43.11:839][675]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-12.43.11:999][688]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.08-12.43.12:041][691]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.08-12.43.12:131][694]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.08-12.43.12:240][703]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.08-12.43.12:288][707]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-12.43.12:380][714]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-12.43.12:518][725]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.43.12:533][726]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.43.12:888][756]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.04.08-12.43.12:888][756]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2019.04.08-12.43.12:888][756]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.04.08-12.43.12:888][756]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.08-12.43.12:888][756]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.08-12.43.26:595][360]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.26:614][360]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.26:660][361]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.43.26:660][361]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.43.26:660][361]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.43.26:660][361]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.43.26:849][378]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.43.26:860][379]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.43.26:885][381]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.43.26:885][381]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.43.27:008][391]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.43.27:031][393]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.43.27:040][394]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.43.27:062][396]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.43.27:187][407]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.43.27:310][417]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.43.27:380][422]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.43.27:446][427]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.08-12.43.27:545][435]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.08-12.43.27:614][441]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.08-12.43.27:716][450]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.08-12.43.27:859][462]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.43.27:859][462]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.08-12.43.27:932][468]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-12.43.28:106][482]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.08-12.43.28:106][482]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.08-12.43.28:280][497]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.08-12.43.28:295][498]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.08-12.43.28:354][503]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-12.43.28:512][516]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-12.43.28:584][522]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.43.28:683][531]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.43.28:961][556]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.04.08-12.43.28:961][556]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2019.04.08-12.43.28:961][556]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.04.08-12.43.28:961][556]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.08-12.43.28:961][556]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.08-12.43.30:967][796]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.30:986][796]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.31:012][797]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.43.31:012][797]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.43.31:012][797]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.43.31:012][797]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.43.31:215][812]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.43.31:237][814]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.43.31:237][814]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.43.31:249][815]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.43.31:393][827]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.43.31:393][827]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.43.31:416][829]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.43.31:416][829]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.43.31:543][841]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.43.31:661][850]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.43.31:800][862]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.43.31:833][865]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.08-12.43.31:923][871]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.08-12.43.32:032][880]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.08-12.43.32:057][882]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.08-12.43.32:221][894]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.43.32:260][897]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.08-12.43.32:318][902]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-12.43.32:437][909]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.08-12.43.32:502][914]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.08-12.43.32:621][924]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.08-12.43.32:711][931]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.08-12.43.32:744][934]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-12.43.32:864][943]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-12.43.32:987][953]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.43.33:051][957]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.43.33:335][982]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.04.08-12.43.33:335][982]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2019.04.08-12.43.33:335][982]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.04.08-12.43.33:335][982]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.08-12.43.33:335][982]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.08-12.43.42:403][ 42]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.42:421][ 42]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.42:446][ 43]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.43.42:446][ 43]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.43.42:446][ 43]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.43.42:446][ 43]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.43.42:661][ 62]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.43.42:672][ 63]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.43.42:681][ 64]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.43.42:692][ 65]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.43.42:834][ 75]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.43.42:843][ 76]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.43.42:843][ 76]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.43.42:863][ 78]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.43.42:997][ 90]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.43.43:102][ 99]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.43.43:213][109]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.43.43:258][113]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.08-12.43.43:361][122]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.08-12.43.43:447][130]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.08-12.43.43:474][132]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.08-12.43.43:629][146]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.43.43:674][150]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.08-12.43.43:762][157]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-12.43.43:854][165]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.08-12.43.43:913][170]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.08-12.43.44:019][178]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.08-12.43.44:131][187]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.08-12.43.44:141][188]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-12.43.44:253][198]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-12.43.44:398][210]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.43.44:463][215]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.43.44:759][241]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.04.08-12.43.44:759][241]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2019.04.08-12.43.44:759][241]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.04.08-12.43.44:759][241]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.08-12.43.44:759][241]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.08-12.43.47:897][608]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.04.08-12.43.47:911][608]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.43.47:911][608]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.43.47:925][608]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.47:943][608]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.43.47:943][608]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.43.48:148][623]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.43.48:189][626]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.43.48:189][626]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.43.48:233][629]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.43.48:365][640]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.43.48:377][641]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.43.48:388][642]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.43.48:432][646]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.43.48:528][654]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.43.48:540][655]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.43.48:553][656]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.43.48:790][676]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.43.48:837][680]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.43.48:842][680]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.48:865][680]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.04.08-12.43.48:898][680]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.04.08-12.43.48:924][680]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.04.08-12.43.48:927][680]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.43.48:927][680]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.48:950][680]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.04.08-12.43.48:981][680]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.49:010][680]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.08-12.43.49:072][683]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.04.08-12.43.49:134][684]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.04.08-12.43.49:168][684]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.43.49:240][689]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.43.49:353][698]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.43.49:363][699]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.43.49:404][702]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.43.49:464][708]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.43.49:564][717]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.43.49:587][719]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.43.49:587][719]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.43.49:629][723]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.43.49:719][730]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.43.49:730][731]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.43.49:763][734]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.43.49:991][753]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.43.50:013][755]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.43.50:127][766]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.08-12.43.50:148][768]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.08-12.43.50:259][778]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.08-12.43.50:384][788]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.08-12.43.50:489][797]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.43.50:499][798]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.08-12.43.50:521][800]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-12.43.50:729][817]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.08-12.43.50:782][822]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.08-12.43.50:884][831]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.08-12.43.50:908][833]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.08-12.43.51:012][842]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-12.43.51:145][853]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-12.43.51:253][863]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.43.51:297][867]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.43.51:599][895]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.04.08-12.43.51:600][895]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2019.04.08-12.43.51:600][895]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.04.08-12.43.51:600][895]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.08-12.43.51:600][895]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.08-12.43.56:960][519]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.56:978][519]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.43.57:005][520]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.43.57:005][520]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.43.57:005][520]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.43.57:005][520]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.43.57:219][539]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.43.57:232][540]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.43.57:244][541]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.43.57:253][542]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.43.57:388][553]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.43.57:401][554]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.43.57:413][555]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.43.57:434][557]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.43.57:542][565]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.43.57:665][575]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.43.57:784][584]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.43.57:810][586]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.08-12.43.57:913][595]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.08-12.43.58:023][605]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.08-12.43.58:069][609]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.08-12.43.58:178][619]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.43.58:273][627]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.08-12.43.58:294][629]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-12.43.58:458][644]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.08-12.43.58:501][648]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.08-12.43.58:560][653]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.08-12.43.58:683][663]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.08-12.43.58:720][666]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-12.43.58:857][677]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-12.43.58:936][684]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.43.58:968][687]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.43.59:289][717]MaterialEditorStats: Base pass shader: 100 instructions
+[2019.04.08-12.43.59:289][717]MaterialEditorStats: Base pass shader with Surface Lightmap: 117 instructions
+[2019.04.08-12.43.59:289][717]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2019.04.08-12.43.59:289][717]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.08-12.43.59:289][717]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.08-12.44.02:269][ 71]LogMaterialEditor: Saving and Compiling material CubeMaterial
+[2019.04.08-12.44.03:461][ 71]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.44.03:529][ 71]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.44.03:529][ 71]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.44.03:529][ 71]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.44.03:529][ 71]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.44.03:762][ 71]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.44.03:762][ 71]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.44.03:781][ 71]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.44.03:781][ 71]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.44.03:781][ 71]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.44.03:786][ 71]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.44.03:856][ 71]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2019.04.08-12.44.05:446][ 71]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.04.08-12.44.05:446][ 71]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.04.08-12.44.05:446][ 71]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.04.08-12.44.05:446][ 71]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.04.08-12.44.05:446][ 71]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.44.05:447][ 71]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.44.05:449][ 71]TextureStreamingBuild: Display: Compiling optional shaders took 1.601 seconds.
+[2019.04.08-12.44.05:569][ 71]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.44.07:926][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/CubeMaterial" FILE="D:/UNREAL/Practice/CODE/Practice_05/Content/Geometry/Meshes/CubeMaterial.uasset" SILENT=true
+[2019.04.08-12.44.07:949][ 71]LogSavePackage: Moving 'D:/UNREAL/Practice/CODE/Practice_05/Saved/CubeMaterial1D3004334119003AC9F2C3A28F3C8F20.tmp' to 'D:/UNREAL/Practice/CODE/Practice_05/Content/Geometry/Meshes/CubeMaterial.uasset'
+[2019.04.08-12.44.18:185][268]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.08-12.44.18:211][268]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.44.18:211][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.08-12.44.18:211][268]PIE: New page: PIE session: FirstPersonExampleMap (Apr 8, 2019, 6:44:18 PM)
+[2019.04.08-12.44.18:211][268]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.04.08-12.44.18:223][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011282s)
+[2019.04.08-12.44.18:223][268]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.08-12.44.18:223][268]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2019.04.08-12.44.18:223][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012272s)
+[2019.04.08-12.44.18:261][268]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.08-12.44.18:269][268]LogInit: FAudioDevice initialized.
+[2019.04.08-12.44.18:297][268]LogLoad: Game class is 'Practice_03GameMode'
+[2019.04.08-12.44.18:299][268]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.04.08-15.44.18
+[2019.04.08-12.44.18:299][268]LogWorld: Bringing up level for play took: 0.001684
+[2019.04.08-12.44.18:312][268]LogTemp: Warning: File read
+[2019.04.08-12.44.18:312][268]LogTemp: Warning: Shoots is - 2
+[2019.04.08-12.44.18:312][268]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.294
+[2019.04.08-12.44.18:312][268]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.44.21:646][661]LogTemp: Warning: Health is - 90.000000
+[2019.04.08-12.44.24:951][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.44.24:951][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.44.24:988][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.08-12.44.24:988][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.44.25:021][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.44.25:057][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.04.08-12.44.26:023][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-12.44.26:164][185]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.08-12.44.26:175][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.44.26:175][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.08-12.44.26:175][185]PIE: New page: PIE session: FirstPersonExampleMap (Apr 8, 2019, 6:44:26 PM)
+[2019.04.08-12.44.26:175][185]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.04.08-12.44.26:186][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010762s)
+[2019.04.08-12.44.26:186][185]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.08-12.44.26:187][185]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2019.04.08-12.44.26:187][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011623s)
+[2019.04.08-12.44.26:223][185]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.08-12.44.26:231][185]LogInit: FAudioDevice initialized.
+[2019.04.08-12.44.26:259][185]LogLoad: Game class is 'Practice_03GameMode'
+[2019.04.08-12.44.26:261][185]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.04.08-15.44.26
+[2019.04.08-12.44.26:261][185]LogWorld: Bringing up level for play took: 0.001603
+[2019.04.08-12.44.26:274][185]LogTemp: Warning: File read
+[2019.04.08-12.44.26:274][185]LogTemp: Warning: Shoots is - 30
+[2019.04.08-12.44.26:274][185]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.331
+[2019.04.08-12.44.26:274][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.44.28:111][400]LogTemp: Warning: Health is - 90.000000
+[2019.04.08-12.44.28:288][421]LogTemp: Warning: Health is - 80.000000
+[2019.04.08-12.44.28:432][438]LogTemp: Warning: Health is - 70.000000
+[2019.04.08-12.44.28:621][460]LogTemp: Warning: Health is - 60.000000
+[2019.04.08-12.44.28:781][479]LogTemp: Warning: Health is - 50.000000
+[2019.04.08-12.44.28:961][500]LogTemp: Warning: Health is - 40.000000
+[2019.04.08-12.44.29:121][519]LogTemp: Warning: Health is - 30.000000
+[2019.04.08-12.44.29:291][539]LogTemp: Warning: Health is - 20.000000
+[2019.04.08-12.44.29:460][559]LogTemp: Warning: Health is - 10.000000
+[2019.04.08-12.44.29:622][578]LogTemp: Warning: Health is - 0.000000
+[2019.04.08-12.44.29:622][578]LogTemp: Warning: Score is - 10.000000
+[2019.04.08-12.44.40:067][820]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.44.40:067][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.44.40:101][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.08-12.44.40:101][820]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.44.40:121][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.44.40:173][824]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.04.08-12.44.40:962][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-12.44.41:029][925]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.08-12.44.41:042][925]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.44.41:042][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.08-12.44.41:042][925]PIE: New page: PIE session: FirstPersonExampleMap (Apr 8, 2019, 6:44:41 PM)
+[2019.04.08-12.44.41:042][925]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.04.08-12.44.41:052][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009786s)
+[2019.04.08-12.44.41:053][925]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.08-12.44.41:053][925]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2019.04.08-12.44.41:053][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010722s)
+[2019.04.08-12.44.41:087][925]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.08-12.44.41:095][925]LogInit: FAudioDevice initialized.
+[2019.04.08-12.44.41:129][925]LogLoad: Game class is 'Practice_03GameMode'
+[2019.04.08-12.44.41:130][925]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.04.08-15.44.41
+[2019.04.08-12.44.41:131][925]LogWorld: Bringing up level for play took: 0.001512
+[2019.04.08-12.44.41:143][925]LogTemp: Warning: File read
+[2019.04.08-12.44.41:143][925]LogTemp: Warning: Shoots is - 30
+[2019.04.08-12.44.41:143][925]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.537
+[2019.04.08-12.44.41:143][925]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.44.59:182][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.44.59:182][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.44.59:220][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.08-12.44.59:220][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.44.59:244][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.44.59:291][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.04.08-12.45.00:518][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-12.45.00:607][226]Candidate modules for hot reload:
+[2019.04.08-12.45.00:607][226]  Practice_03
+[2019.04.08-12.45.00:607][226]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Practice_03,9093 Win64 Development -TargetType=Editor -Project="D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" -canskiplink "D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" ]
+[2019.04.08-12.45.00:613][226]Warning: Starting HotReload took  0.0s.
+[2019.04.08-12.45.03:409][502]CompilerResultsLog: New page: Compilation - Apr 8, 2019, 6:45:03 PM
+[2019.04.08-12.45.03:409][502]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.04.08-12.45.03:409][502]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.08-12.45.03:409][502]CompilerResultsLog: Target is up to date
+[2019.04.08-12.45.03:409][502]CompilerResultsLog: Total build time: 2.50 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2019.04.08-12.45.03:409][502]LogMainFrame: MainFrame: Module compiling took 2.818 seconds
+[2019.04.08-12.45.03:670][502]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2578 classes and 607 folders.
+[2019.04.08-12.45.03:670][502]Display: HotReload took  3.1s.
+[2019.04.08-12.45.07:136][882]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.04.08-12.45.07:150][882]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.45.07:150][882]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.45.07:163][882]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.45.07:184][882]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.45.07:184][882]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.45.07:805][932]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.45.07:845][932]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.45.07:845][932]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.04.08-12.45.07:861][932]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.04.08-12.45.07:875][932]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.45.07:877][932]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.04.08-12.45.07:906][932]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.45.07:906][932]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.45.07:937][932]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.04.08-12.45.07:966][932]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.45.07:988][932]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.08-12.45.08:073][935]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.04.08-12.45.08:098][936]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.04.08-12.45.08:135][936]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.45.08:230][942]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.45.08:360][952]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.45.08:385][954]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.45.08:397][955]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.08-12.45.08:456][960]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.08-12.45.08:595][972]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.08-12.45.08:605][973]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.08-12.45.08:605][973]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.08-12.45.08:664][978]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.45.08:763][987]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.08-12.45.08:775][988]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.08-12.45.08:798][990]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.08-12.45.09:054][ 11]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.08-12.45.09:069][ 12]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.08-12.45.09:186][ 21]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.08-12.45.09:199][ 22]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.08-12.45.09:300][ 30]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.08-12.45.09:438][ 42]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.08-12.45.09:554][ 52]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.45.09:579][ 54]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.08-12.45.09:589][ 55]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.08-12.45.09:841][ 74]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.08-12.45.09:841][ 74]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.08-12.45.09:987][ 85]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.08-12.45.09:999][ 86]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.08-12.45.10:071][ 92]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.08-12.45.10:248][105]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.08-12.45.10:305][109]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.08-12.45.10:405][117]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.45.10:650][134]MaterialEditorStats: Base pass shader: 100 instructions
+[2019.04.08-12.45.10:650][134]MaterialEditorStats: Base pass shader with Surface Lightmap: 117 instructions
+[2019.04.08-12.45.10:650][134]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2019.04.08-12.45.10:650][134]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.08-12.45.10:650][134]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.08-12.45.12:828][385]LogMaterialEditor: Saving and Compiling material CubeMaterial
+[2019.04.08-12.45.13:371][385]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.45.13:438][385]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.08-12.45.13:438][385]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.08-12.45.13:438][385]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.08-12.45.13:438][385]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.08-12.45.13:453][385]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.45.13:481][385]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.04.08-12.45.13:567][385]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.04.08-12.45.15:356][385]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.04.08-12.45.15:357][385]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.04.08-12.45.15:357][385]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.04.08-12.45.15:357][385]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.04.08-12.45.15:357][385]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.04.08-12.45.15:357][385]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.04.08-12.45.15:357][385]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.04.08-12.45.15:357][385]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.08-12.45.15:357][385]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.08-12.45.15:358][385]TextureStreamingBuild: Display: Compiling optional shaders took 1.798 seconds.
+[2019.04.08-12.45.15:429][385]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.08-12.45.17:716][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/CubeMaterial" FILE="D:/UNREAL/Practice/CODE/Practice_05/Content/Geometry/Meshes/CubeMaterial.uasset" SILENT=true
+[2019.04.08-12.45.17:731][385]LogSavePackage: Moving 'D:/UNREAL/Practice/CODE/Practice_05/Saved/CubeMaterial04F4B85F46880D5509D71AA840CEC0E4.tmp' to 'D:/UNREAL/Practice/CODE/Practice_05/Content/Geometry/Meshes/CubeMaterial.uasset'
+[2019.04.08-12.45.38:226][455]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.08-12.45.38:238][455]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.45.38:238][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.08-12.45.38:238][455]PIE: New page: PIE session: FirstPersonExampleMap (Apr 8, 2019, 6:45:38 PM)
+[2019.04.08-12.45.38:238][455]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.04.08-12.45.38:249][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011407s)
+[2019.04.08-12.45.38:250][455]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.08-12.45.38:250][455]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2019.04.08-12.45.38:250][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012339s)
+[2019.04.08-12.45.38:292][455]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.08-12.45.38:301][455]LogInit: FAudioDevice initialized.
+[2019.04.08-12.45.38:333][455]LogLoad: Game class is 'Practice_03GameMode'
+[2019.04.08-12.45.38:335][455]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.04.08-15.45.38
+[2019.04.08-12.45.38:335][455]LogWorld: Bringing up level for play took: 0.001670
+[2019.04.08-12.45.38:348][455]LogTemp: Warning: File read
+[2019.04.08-12.45.38:348][455]LogTemp: Warning: Shoots is - 11
+[2019.04.08-12.45.38:348][455]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.258
+[2019.04.08-12.45.38:348][455]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.45.40:069][655]LogTemp: Warning: Health is - 90.000000
+[2019.04.08-12.45.41:788][861]LogTemp: Warning: Health is - 80.000000
+[2019.04.08-12.45.43:297][ 42]LogTemp: Warning: Health is - 70.000000
+[2019.04.08-12.45.44:000][126]LogTemp: Warning: Health is - 60.000000
+[2019.04.08-12.45.44:983][244]LogTemp: Warning: Health is - 50.000000
+[2019.04.08-12.45.46:227][393]LogTemp: Warning: Health is - 40.000000
+[2019.04.08-12.45.51:881][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.45.51:881][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.45.51:914][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.08-12.45.51:915][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.45.51:936][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.45.51:987][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.04.08-12.45.59:783][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-12.46.01:319][189]BlueprintLog: New page: Compile BP_MyATurret
+[2019.04.08-12.46.02:401][296]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.08-12.46.02:415][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.46.02:415][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.08-12.46.02:415][296]PIE: New page: PIE session: FirstPersonExampleMap (Apr 8, 2019, 6:46:02 PM)
+[2019.04.08-12.46.02:415][296]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.04.08-12.46.02:426][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010652s)
+[2019.04.08-12.46.02:426][296]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.08-12.46.02:426][296]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2019.04.08-12.46.02:426][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011632s)
+[2019.04.08-12.46.02:464][296]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.08-12.46.02:473][296]LogInit: FAudioDevice initialized.
+[2019.04.08-12.46.02:503][296]LogLoad: Game class is 'Practice_03GameMode'
+[2019.04.08-12.46.02:505][296]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.04.08-15.46.02
+[2019.04.08-12.46.02:505][296]LogWorld: Bringing up level for play took: 0.001511
+[2019.04.08-12.46.02:518][296]LogTemp: Warning: File read
+[2019.04.08-12.46.02:518][296]LogTemp: Warning: Shoots is - 30
+[2019.04.08-12.46.02:518][296]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.087
+[2019.04.08-12.46.02:518][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.46.04:673][551]LogTemp: Warning: Health is - 90.000000
+[2019.04.08-12.46.10:975][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.46.10:975][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.46.11:009][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.08-12.46.11:009][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.46.11:035][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.46.11:082][311]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.04.08-12.46.11:706][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-12.46.11:813][398]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.08-12.46.11:825][398]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.46.11:825][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.08-12.46.11:825][398]PIE: New page: PIE session: FirstPersonExampleMap (Apr 8, 2019, 6:46:11 PM)
+[2019.04.08-12.46.11:825][398]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.04.08-12.46.11:834][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009363s)
+[2019.04.08-12.46.11:835][398]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.08-12.46.11:835][398]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2019.04.08-12.46.11:835][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010359s)
+[2019.04.08-12.46.11:870][398]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.08-12.46.11:879][398]LogInit: FAudioDevice initialized.
+[2019.04.08-12.46.11:909][398]LogLoad: Game class is 'Practice_03GameMode'
+[2019.04.08-12.46.11:911][398]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.04.08-15.46.11
+[2019.04.08-12.46.11:911][398]LogWorld: Bringing up level for play took: 0.001735
+[2019.04.08-12.46.11:924][398]LogTemp: Warning: File read
+[2019.04.08-12.46.11:924][398]LogTemp: Warning: Shoots is - 26
+[2019.04.08-12.46.11:924][398]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.681
+[2019.04.08-12.46.11:924][398]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.46.13:838][624]LogTemp: Warning: Health is - 90.000000
+[2019.04.08-12.46.20:757][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.46.20:757][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.46.20:790][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.08-12.46.20:790][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.46.20:815][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.46.20:863][457]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.04.08-12.46.24:580][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-12.46.38:253][981]BlueprintLog: New page: Compile BP_MyATurret
+[2019.04.08-12.46.39:690][ 71]BlueprintLog: New page: Compile BP_MyATurret
+[2019.04.08-12.46.41:236][234]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.08-12.46.41:250][234]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.46.41:250][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.08-12.46.41:250][234]PIE: New page: PIE session: FirstPersonExampleMap (Apr 8, 2019, 6:46:41 PM)
+[2019.04.08-12.46.41:250][234]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.04.08-12.46.41:262][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012298s)
+[2019.04.08-12.46.41:263][234]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.08-12.46.41:263][234]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2019.04.08-12.46.41:263][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013245s)
+[2019.04.08-12.46.41:302][234]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.08-12.46.41:311][234]LogInit: FAudioDevice initialized.
+[2019.04.08-12.46.41:340][234]LogLoad: Game class is 'Practice_03GameMode'
+[2019.04.08-12.46.41:341][234]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.04.08-15.46.41
+[2019.04.08-12.46.41:342][234]LogWorld: Bringing up level for play took: 0.001507
+[2019.04.08-12.46.41:354][234]LogTemp: Warning: File read
+[2019.04.08-12.46.41:354][234]LogTemp: Warning: Shoots is - 19
+[2019.04.08-12.46.41:354][234]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.749
+[2019.04.08-12.46.41:354][234]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.46.42:873][413]LogTemp: Warning: Health is - 90.000000
+[2019.04.08-12.46.54:138][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.46.54:138][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.46.54:170][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.08-12.46.54:170][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.46.54:195][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.46.54:243][767]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.08-12.46.55:683][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-12.46.59:175][356]BlueprintLog: New page: Compile BP_MyATurret
+[2019.04.08-12.47.03:375][837]BlueprintLog: New page: Compile BP_MyATurret
+[2019.04.08-12.47.05:126][ 22]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.08-12.47.05:140][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.47.05:140][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.08-12.47.05:140][ 22]PIE: New page: PIE session: FirstPersonExampleMap (Apr 8, 2019, 6:47:05 PM)
+[2019.04.08-12.47.05:140][ 22]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.04.08-12.47.05:151][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011343s)
+[2019.04.08-12.47.05:152][ 22]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.08-12.47.05:152][ 22]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2019.04.08-12.47.05:152][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012422s)
+[2019.04.08-12.47.05:194][ 22]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.08-12.47.05:203][ 22]LogInit: FAudioDevice initialized.
+[2019.04.08-12.47.05:231][ 22]LogLoad: Game class is 'Practice_03GameMode'
+[2019.04.08-12.47.05:233][ 22]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.04.08-15.47.05
+[2019.04.08-12.47.05:233][ 22]LogWorld: Bringing up level for play took: 0.001524
+[2019.04.08-12.47.05:245][ 22]LogTemp: Warning: File read
+[2019.04.08-12.47.05:245][ 22]LogTemp: Warning: Shoots is - 17
+[2019.04.08-12.47.05:245][ 22]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.64
+[2019.04.08-12.47.05:245][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.47.08:243][378]LogTemp: Warning: Health is - 90.000000
+[2019.04.08-12.47.09:794][564]LogTemp: Warning: Health is - 80.000000
+[2019.04.08-12.47.10:995][708]LogTemp: Warning: Health is - 70.000000
+[2019.04.08-12.47.11:972][825]LogTemp: Warning: Health is - 60.000000
+[2019.04.08-12.47.12:510][889]LogTemp: Warning: Health is - 50.000000
+[2019.04.08-12.47.13:578][ 17]LogTemp: Warning: Health is - 40.000000
+[2019.04.08-12.47.14:192][ 90]LogTemp: Warning: Health is - 30.000000
+[2019.04.08-12.47.14:816][165]LogTemp: Warning: Health is - 20.000000
+[2019.04.08-12.47.15:368][231]LogTemp: Warning: Health is - 10.000000
+[2019.04.08-12.47.16:097][318]LogTemp: Warning: Health is - 0.000000
+[2019.04.08-12.47.16:097][318]LogTemp: Warning: Score is - 10.000000
+[2019.04.08-12.47.17:073][435]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.47.17:073][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.47.17:105][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.08-12.47.17:105][435]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-12.47.17:130][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-12.47.17:179][437]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.04.08-12.47.30:074][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.08-12.48.13:577][209]Running C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe Win64 Development -TargetType=Editor -Project="D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" -invalidatemakefilesonly
+[2019.04.08-12.48.14:491][209]Invalidating makefiles only in this run.
+[2019.04.08-12.48.14:773][209]Candidate modules for hot reload:
+[2019.04.08-12.48.14:774][209]  Practice_03
+[2019.04.08-12.48.14:774][209]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Practice_03,5381 Win64 Development -TargetType=Editor -Project="D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" -canskiplink "D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" ]
+[2019.04.08-12.48.45:967][209]CompilerResultsLog: New page: Compilation - Apr 8, 2019, 6:48:45 PM
+[2019.04.08-12.48.45:967][209]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.04.08-12.48.45:967][209]CompilerResultsLog: Creating makefile for hot reloading Practice_03Editor (no existing makefile)
+[2019.04.08-12.48.45:967][209]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.08-12.48.45:967][209]CompilerResultsLog: Using Visual Studio 2017 14.14.26428 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.04.08-12.48.45:967][209]CompilerResultsLog: Parsing headers for Practice_03Editor
+[2019.04.08-12.48.45:967][209]CompilerResultsLog:   Running UnrealHeaderTool "D:\UNREAL\Practice\CODE\Practice_05\Practice_05.uproject" "D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\Practice_03Editor\Development\Practice_03Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.04.08-12.48.45:967][209]CompilerResultsLog: Reflection code generated for Practice_03Editor in 9.2650613 seconds
+[2019.04.08-12.48.45:967][209]CompilerResultsLog: Building 5 actions with 8 processes...
+[2019.04.08-12.48.45:967][209]CompilerResultsLog:   [1/5] Practice_03.init.gen.cpp
+[2019.04.08-12.48.45:967][209]CompilerResultsLog:   [2/5] CPP_ScoreWidget.cpp
+[2019.04.08-12.48.45:967][209]CompilerResultsLog:   [3/5] CPP_ScoreWidget.gen.cpp
+[2019.04.08-12.48.45:967][209]CompilerResultsLog:   [4/5] UE4Editor-Practice_03-5381.lib
+[2019.04.08-12.48.45:967][209]CompilerResultsLog:      Creating library D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-5381.lib and object D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-5381.exp
+[2019.04.08-12.48.45:967][209]CompilerResultsLog:   [5/5] UE4Editor-Practice_03-5381.dll
+[2019.04.08-12.48.45:967][209]CompilerResultsLog:      Creating library D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-5381.suppressed.lib and object D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-5381.suppressed.exp
+[2019.04.08-12.48.45:967][209]CompilerResultsLog: Total build time: 30.94 seconds (Parallel executor: 2.38 seconds)
+[2019.04.08-12.48.45:967][209]LogMainFrame: MainFrame: Module compiling took 31.211 seconds
+[2019.04.08-12.48.46:029][209]LogClass: Could not find existing class CPP_ScoreWidget in package /Script/Practice_03 for HotReload, assuming new class
+[2019.04.08-12.48.46:040][209]LogContentBrowser: Native class hierarchy updated for 'Practice_03' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2019.04.08-12.48.46:042][209]Display: HotReload successful (7 functions remapped  0 scriptstructs remapped)
+[2019.04.08-12.48.46:324][209]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2579 classes and 607 folders.
+[2019.04.08-12.48.46:324][209]Display: HotReload took 31.6s.
+[2019.04.08-12.48.46:325][209]Warning: HotReload operation took 31.6s.
+[2019.04.08-12.48.46:459][209]LogVSAccessor: Warning: Couldn't goto column number '1' of line '1' in 'D:/UNREAL/Practice/CODE/Practice_05/Source/Practice_03/CPP_ScoreWidget.h'
+[2019.04.08-12.48.46:542][209]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.04.08-12.48.46:551][209]LogHotReload: New module detected: UE4Editor-Practice_03-5381.dll
+[2019.04.08-12.48.46:593][210]LogHotReload: Starting Hot-Reload from IDE
+[2019.04.08-12.48.46:682][210]LogContentBrowser: Native class hierarchy updated for 'Practice_03' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2019.04.08-12.48.46:685][210]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.08-12.48.46:939][210]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2579 classes and 607 folders.
+[2019.04.08-12.48.46:953][210]Display: HotReload took  0.4s.
+[2019.04.08-12.48.57:316][240]LogSavePackage: Moving 'D:/UNREAL/Practice/CODE/Practice_05/Saved/FirstPersonExampleMap_Auto2430410214717167960462EAE4D6C46C0.tmp' to 'D:/UNREAL/Practice/CODE/Practice_05/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.04.08-12.48.57:320][240]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.205
+[2019.04.08-12.48.57:320][240]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.205
+[2019.04.08-12.48.57:323][240]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_derived/BP_MyATurret] ([1] browsable assets)...
+[2019.04.08-12.48.57:356][240]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_derived/BP_MyATurret.BP_MyATurret]
+[2019.04.08-12.48.57:356][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_derived/BP_MyATurret]
+[2019.04.08-12.48.57:356][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_derived/BP_MyATurret" FILE="D:/UNREAL/Practice/CODE/Practice_05/Saved/Autosaves/Game/BP_derived/BP_MyATurret_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.04.08-12.48.57:382][240]LogSavePackage: Moving 'D:/UNREAL/Practice/CODE/Practice_05/Saved/BP_MyATurret_Auto21018F378417B7486C0D506BA169BE3DF.tmp' to 'D:/UNREAL/Practice/CODE/Practice_05/Saved/Autosaves/Game/BP_derived/BP_MyATurret_Auto2.uasset'
+[2019.04.08-12.48.57:384][240]LogFileHelpers: Auto-saving content packages took 0.063
+[2019.04.08-13.04.22:580][999]LogSlate: Window 'BP_MyATurret*' being destroyed
+[2019.04.08-13.05.51:084][864]Candidate modules for hot reload:
+[2019.04.08-13.05.51:084][864]  Practice_03
+[2019.04.08-13.05.51:084][864]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Practice_03,5518 Win64 Development -TargetType=Editor -Project="D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" -canskiplink "D:/UNREAL/Practice/CODE/Practice_05/Practice_05.uproject" ]
+[2019.04.08-13.05.51:090][864]Warning: Starting HotReload took  0.0s.
+[2019.04.08-13.06.07:613][829]CompilerResultsLog: New page: Compilation - Apr 8, 2019, 7:06:07 PM
+[2019.04.08-13.06.07:613][829]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.04.08-13.06.07:613][829]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.08-13.06.07:613][829]CompilerResultsLog: Parsing headers for Practice_03Editor
+[2019.04.08-13.06.07:613][829]CompilerResultsLog:   Running UnrealHeaderTool "D:\UNREAL\Practice\CODE\Practice_05\Practice_05.uproject" "D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\Practice_03Editor\Development\Practice_03Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.04.08-13.06.07:614][829]CompilerResultsLog: Reflection code generated for Practice_03Editor in 10.1484295 seconds
+[2019.04.08-13.06.07:614][829]CompilerResultsLog: Building 5 actions with 8 processes...
+[2019.04.08-13.06.07:614][829]CompilerResultsLog:   [1/5] Practice_03.init.gen.cpp
+[2019.04.08-13.06.07:614][829]CompilerResultsLog:   [2/5] CPP_ScoreWidget.gen.cpp
+[2019.04.08-13.06.07:614][829]CompilerResultsLog:   [3/5] CPP_ScoreWidget.cpp
+[2019.04.08-13.06.07:614][829]CompilerResultsLog:   [4/5] UE4Editor-Practice_03-5518.lib
+[2019.04.08-13.06.07:614][829]CompilerResultsLog:      Creating library D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-5518.lib and object D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-5518.exp
+[2019.04.08-13.06.07:614][829]CompilerResultsLog:   [5/5] UE4Editor-Practice_03-5518.dll
+[2019.04.08-13.06.07:614][829]CompilerResultsLog:      Creating library D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-5518.suppressed.lib and object D:\UNREAL\Practice\CODE\Practice_05\Intermediate\Build\Win64\UE4Editor\Development\Practice_03\UE4Editor-Practice_03-5518.suppressed.exp
+[2019.04.08-13.06.07:614][829]CompilerResultsLog: Total build time: 16.21 seconds (Parallel executor: 3.31 seconds)
+[2019.04.08-13.06.07:614][829]LogMainFrame: MainFrame: Module compiling took 16.546 seconds
+[2019.04.08-13.06.07:680][829]LogClass: Could not find existing class CPP_ScoreWidget in package /Script/Practice_03 for HotReload, assuming new class
+[2019.04.08-13.06.07:690][829]LogHotReload: Re-instancing CPP_ScoreWidget after hot-reload.
+[2019.04.08-13.06.07:792][829]LogContentBrowser: Native class hierarchy updated for 'Practice_03' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2019.04.08-13.06.07:794][829]Display: HotReload successful (7 functions remapped  0 scriptstructs remapped)
+[2019.04.08-13.06.08:079][829]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2579 classes and 607 folders.
+[2019.04.08-13.06.08:079][829]Display: HotReload took 17.0s.
+[2019.04.08-13.06.31:872][662]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.08-13.06.31:889][662]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-13.06.31:889][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.08-13.06.31:889][662]PIE: New page: PIE session: FirstPersonExampleMap (Apr 8, 2019, 7:06:31 PM)
+[2019.04.08-13.06.31:889][662]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.04.08-13.06.31:901][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011548s)
+[2019.04.08-13.06.31:902][662]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.08-13.06.31:902][662]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2019.04.08-13.06.31:902][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012668s)
+[2019.04.08-13.06.31:966][662]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.08-13.06.31:975][662]LogInit: FAudioDevice initialized.
+[2019.04.08-13.06.32:008][662]LogLoad: Game class is 'Practice_03GameMode'
+[2019.04.08-13.06.32:010][662]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.04.08-16.06.32
+[2019.04.08-13.06.32:010][662]LogWorld: Bringing up level for play took: 0.001621
+[2019.04.08-13.06.32:023][662]LogTemp: Warning: File read
+[2019.04.08-13.06.32:023][662]LogTemp: Warning: Shoots is - 6
+[2019.04.08-13.06.32:023][662]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.583
+[2019.04.08-13.06.32:023][662]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-13.06.34:463][952]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-13.06.34:463][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-13.06.34:499][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.08-13.06.34:500][952]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.08-13.06.34:547][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.08-13.06.34:581][953]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.04.08-13.06.35:690][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.08-13.07.04:096][332]LogMetaData: Removing '/Game/BP_derived/WBP_MainScreen.SKEL_WBP_MainScreen_C' ref from Metadata '/Game/BP_derived/NewWidgetBlueprint.PackageMetaData'
+[2019.04.08-13.07.04:096][332]LogMetaData: Removing '/Game/BP_derived/WBP_MainScreen.WBP_MainScreen_C' ref from Metadata '/Game/BP_derived/NewWidgetBlueprint.PackageMetaData'
+[2019.04.08-13.07.04:096][332]LogMetaData: Removing '/Game/BP_derived/WBP_MainScreen.WBP_MainScreen:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_derived/NewWidgetBlueprint.PackageMetaData'
+[2019.04.08-13.07.04:096][332]LogMetaData: Removing '/Game/BP_derived/WBP_MainScreen.WBP_MainScreen:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_derived/NewWidgetBlueprint.PackageMetaData'
+[2019.04.08-13.07.04:096][332]LogMetaData: Removing '/Game/BP_derived/WBP_MainScreen.WBP_MainScreen:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_derived/NewWidgetBlueprint.PackageMetaData'
+[2019.04.08-13.07.04:123][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_derived/WBP_MainScreen" FILE="D:/UNREAL/Practice/CODE/Practice_05/Content/BP_derived/WBP_MainScreen.uasset" SILENT=true
+[2019.04.08-13.07.04:133][332]LogSavePackage: Moving 'D:/UNREAL/Practice/CODE/Practice_05/Saved/WBP_MainScreen5DD1996C4B3F814E905C97A1A29E0471.tmp' to 'D:/UNREAL/Practice/CODE/Practice_05/Content/BP_derived/WBP_MainScreen.uasset'
+[2019.04.08-13.07.06:313][510]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BP_derived/WBP_MainScreen.WBP_MainScreen
+[2019.04.08-13.07.39:350][170]LogStats: FPlatformStackWalk::StackWalkAndDump - 15.963 s
+[2019.04.08-13.07.39:350][170]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.08-13.07.39:350][170]LogOutputDevice: Error: 
+[2019.04.08-13.07.39:350][170]LogOutputDevice: Error: Ensure condition failed: !PreviewSlateWidgetWeak.IsValid() [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UMGEditor\Private\WidgetBlueprintEditor.cpp] [Line: 790]
+[2019.04.08-13.07.39:350][170]LogOutputDevice: Error: 
+[2019.04.08-13.07.39:350][170]LogOutputDevice: Error: Stack: 
+[2019.04.08-13.07.39:350][170]LogOutputDevice: Error: [Callstack] 0x00007ffcce2d71f6 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:236]
+[2019.04.08-13.07.39:350][170]LogOutputDevice: Error: [Callstack] 0x00007ffcce010c92 UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:305]
+[2019.04.08-13.07.39:350][170]LogOutputDevice: Error: [Callstack] 0x00007ffcce02b356 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalseImpl() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]
+[2019.04.08-13.07.39:350][170]LogOutputDevice: Error: [Callstack] 0x00007ffc8f471a03 UE4Editor-UMGEditor.dll!FWidgetBlueprintEditor::DestroyPreview() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\widgetblueprinteditor.cpp:790]
+[2019.04.08-13.07.39:350][170]LogOutputDevice: Error: [Callstack] 0x00007ffc8f4dee3e UE4Editor-UMGEditor.dll!FWidgetBlueprintEditor::OnBlueprintChangedImpl() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\widgetblueprinteditor.cpp:295]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc9261fce9 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(UBlueprint * __ptr64)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:345]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc9944d8d3 UE4Editor-Engine.dll!TBaseMulticastDelegate<void,UBlueprint * __ptr64>::Broadcast() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:937]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc936849b5 UE4Editor-UnrealEd.dll!FBlueprintEditorUtils::MarkBlueprintAsStructurallyModified() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\blueprinteditorutils.cpp:2139]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc8f5292b7 UE4Editor-UMGEditor.dll!FWidgetBlueprintEditorUtils::RenameWidget() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\widgetblueprinteditorutils.cpp:259]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc8f4c289e UE4Editor-UMGEditor.dll!SWidgetDetailsView::HandleNameTextCommitted() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\details\swidgetdetailsview.cpp:449]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc8f48b519 UE4Editor-UMGEditor.dll!TBaseSPMethodDelegateInstance<0,SWidgetDetailsView,0,void __cdecl(FText const & __ptr64,enum ETextCommit::Type)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:345]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc990c6a2e UE4Editor-Slate.dll!FSlateEditableTextLayout::HandleFocusLost() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\text\slateeditabletextlayout.cpp:786]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc98ed93b0 UE4Editor-Slate.dll!FSlateApplication::SetUserFocus() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2923]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc98e71444 UE4Editor-Slate.dll!FSlateApplication::ClearKeyboardFocus() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2679]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc8f4e6cd4 UE4Editor-UMGEditor.dll!SWidgetDetailsView::OnEditorSelectionChanging() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\details\swidgetdetailsview.cpp:211]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc8f485a96 UE4Editor-UMGEditor.dll!TBaseRawMethodDelegateInstance<0,SWidgetDetailsView,void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:503]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc8f4173c4 UE4Editor-UMGEditor.dll!TBaseMulticastDelegate<void>::Broadcast() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:937]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc8f536248 UE4Editor-UMGEditor.dll!FWidgetBlueprintEditor::SelectWidgets() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\widgetblueprinteditor.cpp:184]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc8f53209e UE4Editor-UMGEditor.dll!SDesignerView::ResolvePendingSelectedWidgets() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\designer\sdesignerview.cpp:1676]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc8f4f470d UE4Editor-UMGEditor.dll!SDesignerView::OnMouseButtonDown() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\designer\sdesignerview.cpp:1724]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc98e381ef UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FPointerEvent,<lambda_7097b900f0e4be30d80fb18f98c51ea0> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:268]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc98ecffe2 UE4Editor-Slate.dll!FSlateApplication::RoutePointerDownEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5369]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc98eb77ac UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonDownEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5322]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffc98eaabba UE4Editor-Slate.dll!FSlateApplication::OnMouseDown() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5240]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffccf66d26f UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1744]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffccf660270 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2182]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffccf66f4c5 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:895]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffccf65c209 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:732]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffcfdf36d41 USER32.dll!UnknownFunction []
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffcfdf36713 USER32.dll!UnknownFunction []
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffccf670646 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:129]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ff7a03e54e5 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3417]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ff7a03f5b3c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ff7a03f5bba UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ff7a0403dac UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ff7a0405aaa UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:283]
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffcfe5c3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: [Callstack] 0x00007ffcfe923691 ntdll.dll!UnknownFunction []
+[2019.04.08-13.07.39:351][170]LogOutputDevice: Error: 
+[2019.04.08-13.07.39:356][170]LogStats:                SubmitErrorReport -  0.000 s

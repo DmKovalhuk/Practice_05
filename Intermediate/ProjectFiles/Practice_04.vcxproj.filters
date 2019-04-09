@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Practice_04.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{C9151984-1E94-4DB7-97C8-2FEE65331DFC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Practice_03.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Practice_03Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{572BE5D5-7BBD-4C5D-86A8-A812422F4726}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Practice_03">
+			<UniqueIdentifier>{A6AB9D59-9EF8-497F-B7B3-9E9182F2BD4B}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Practice_03\ATurret.cpp">
+			<Filter>Source\Practice_03</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Practice_03\ATurret.h">
+			<Filter>Source\Practice_03</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\Practice_03\Practice_03.Build.cs">
+			<Filter>Source\Practice_03</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Practice_03\Practice_03.cpp">
+			<Filter>Source\Practice_03</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Practice_03\Practice_03.h">
+			<Filter>Source\Practice_03</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Practice_03\Practice_03Character.cpp">
+			<Filter>Source\Practice_03</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Practice_03\Practice_03Character.h">
+			<Filter>Source\Practice_03</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Practice_03\Practice_03GameMode.cpp">
+			<Filter>Source\Practice_03</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Practice_03\Practice_03GameMode.h">
+			<Filter>Source\Practice_03</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Practice_03\Practice_03HUD.cpp">
+			<Filter>Source\Practice_03</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Practice_03\Practice_03HUD.h">
+			<Filter>Source\Practice_03</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Practice_03\Practice_03Projectile.cpp">
+			<Filter>Source\Practice_03</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Practice_03\Practice_03Projectile.h">
+			<Filter>Source\Practice_03</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
